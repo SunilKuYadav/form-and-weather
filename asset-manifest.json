@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/form-and-weather/static/css/main.d8e98ef3.chunk.css",
+    "main.js": "/form-and-weather/static/js/main.ce0b4f7e.chunk.js",
+    "main.js.map": "/form-and-weather/static/js/main.ce0b4f7e.chunk.js.map",
+    "runtime-main.js": "/form-and-weather/static/js/runtime-main.a58bb3b2.js",
+    "runtime-main.js.map": "/form-and-weather/static/js/runtime-main.a58bb3b2.js.map",
+    "static/js/2.efe3119b.chunk.js": "/form-and-weather/static/js/2.efe3119b.chunk.js",
+    "static/js/2.efe3119b.chunk.js.map": "/form-and-weather/static/js/2.efe3119b.chunk.js.map",
+    "index.html": "/form-and-weather/index.html",
+    "static/css/main.d8e98ef3.chunk.css.map": "/form-and-weather/static/css/main.d8e98ef3.chunk.css.map",
+    "static/js/2.efe3119b.chunk.js.LICENSE.txt": "/form-and-weather/static/js/2.efe3119b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a58bb3b2.js",
+    "static/js/2.efe3119b.chunk.js",
+    "static/css/main.d8e98ef3.chunk.css",
+    "static/js/main.ce0b4f7e.chunk.js"
+  ]
+}
